@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+
+body {
+margin: 8px;
+  display: block;
+  padding: auto;
+  text-align: center;
+
+}
+
+main {
+    padding: auto;
+    background-color: lightsteelblue;
+}
+.title{
+    padding:auto;
+    background-color:lavenderblush;
+}
+#mainHeading{
+color:red;
+text-align: center;
+}
+
+.funParagraph {
+    color: green
+}
+
+p{
+    /* display: inline-block; */
+}
